@@ -1,0 +1,34 @@
+# 1. Dataset & Zips
+train/
+train.zip
+test_video/
+
+# 2. Large outputs & Submissions
+output_analysis/
+submission_*.csv
+
+# 3. Model Weights & Checkpoints
+*.pth
+*.pt
+VideoMAEv2/work_dirs/
+VideoMAEv2/vit_b_k710_dl_from_giant.pth
+VideoMAEv2/yolo11x.pt
+
+# 4. Environments & Cache
+.venv*/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 5. IDEs & Specific Folders
+.idea/
+.vscode/
+
+# 6. Logs & Temp Files
+*.log
+*.tmp
+*.temp
+.DS_Store

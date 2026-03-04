@@ -1,0 +1,62 @@
+{
+  "overall_situation": "Daytime clear-weather multi-lane urban arterial road with a painted median/center island and multiple lanes in each direction. The ego vehicle is traveling straight with light to moderate opposing traffic; parked or slow vehicles and buses are present along the left side, and commercial buildings line the roadside.",
+  "traffic_light_status": "Unknown",
+  "sudden_events": [
+    "car-4 from the opposing direction makes a rapid right-to-left turn across the ego vehicle’s path between frames 10–14, briefly occupying the ego lane before clearing it.",
+    "Large bus truck-20 passes very close on the left from opposite direction between frames 2–7, temporarily blocking view of other vehicles but without entering the ego lane."
+  ],
+  "object_movements": [
+    {
+      "id": "car-1",
+      "description": "Initially ahead in the opposite-direction left lane near the center island (frames 0–2), then continues forward and gradually moves farther away toward the horizon while remaining in its lane."
+    },
+    {
+      "id": "car-3",
+      "description": "Opposite-direction car near the center island at frame 0; continues straight in its lane and quickly exits the camera’s close field of view as the ego vehicle moves forward."
+    },
+    {
+      "id": "car-5",
+      "description": "Opposing car near the left side at frame 0–1, remains in the same lane and moves away as distance increases, with no notable lateral movement."
+    },
+    {
+      "id": "truck-20",
+      "description": "Large green-and-white bus in the opposing lane: first visible behind cars-1 and -7 (frames 1–4), then advances rapidly toward the ego vehicle, passes closely on the ego vehicle’s left side around frames 5–7, and then exits the frame to the rear-left."
+    },
+    {
+      "id": "car-7",
+      "description": "Opposite-direction car in the lane next to the median, initially partly ahead of the ego vehicle (frames 2–4); keeps lane and moves rearward relative to the ego vehicle as both proceed, then becomes occluded by truck-20 and leaves close view."
+    },
+    {
+      "id": "truck-10",
+      "description": "White truck parked or slowly moving on the far left shoulder in the oncoming direction (frames 3–4); remains near-stationary relative to the road edge with no lane change."
+    },
+    {
+      "id": "truck-51",
+      "description": "Large truck visible on the right side ahead near buildings at frame 4; stays on the right-side lanes or roadside and gradually moves rearward in the field of view as the ego car approaches, without entering the ego lane."
+    },
+    {
+      "id": "truck-66",
+      "description": "Bus or large vehicle close to the ego vehicle’s left-front at frame 5; appears mostly stationary or slow-moving near the center island as the ego passes it and it moves backward out of view."
+    },
+    {
+      "id": "car-34",
+      "description": "Opposite-direction mid-distance car near the median (frames 3–4); continues straight in its lane and slowly recedes toward the background."
+    },
+    {
+      "id": "car-63",
+      "description": "Oncoming car initially partly occluded by the passing bus-truck-20 (frames 7–9); emerges after the bus passes and continues straight in its own lane toward the camera, increasing in size without lateral movement."
+    },
+    {
+      "id": "truck-93",
+      "description": "Large truck behind car-63 (frames 8–10); follows the same opposing lane, gradually approaching but remaining directly behind car-63 with no overtaking during shown frames."
+    },
+    {
+      "id": "car-100",
+      "description": "White car appears in the left part of the opposite carriageway at frame 9; moves steadily forward in its lane toward the camera while remaining left of car-63."
+    },
+    {
+      "id": "car-4",
+      "description": "Dark SUV in the opposing lanes that begins near the center of the frame heading toward the camera (frame 10). Between frames 10–12 it turns sharply across the center markings from the opposing lanes into the ego vehicle’s direction, briefly occupying the ego lane directly ahead. By frames 13–14 it has completed the crossing and passes very close in front of the ego car from right to left, moving out toward the right edge of the frame. By frame 15 it has cleared ahead and appears on the right side of the scene, traveling away."
+    }
+  ]
+}
