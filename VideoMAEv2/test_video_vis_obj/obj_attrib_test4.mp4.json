@@ -1,0 +1,86 @@
+{
+    "video_duration": 5.041666666666667,
+    "fps": 24.0,
+    "detections": [
+        {
+            "timestamp": 0.0,
+            "frame": 0,
+            "objects": []
+        },
+        {
+            "timestamp": 0.315,
+            "frame": 8,
+            "objects": []
+        },
+        {
+            "timestamp": 0.63,
+            "frame": 16,
+            "objects": []
+        },
+        {
+            "timestamp": 0.945,
+            "frame": 24,
+            "objects": []
+        },
+        {
+            "timestamp": 1.26,
+            "frame": 32,
+            "objects": []
+        },
+        {
+            "timestamp": 1.576,
+            "frame": 40,
+            "objects": []
+        },
+        {
+            "timestamp": 1.891,
+            "frame": 48,
+            "objects": []
+        },
+        {
+            "timestamp": 2.206,
+            "frame": 56,
+            "objects": []
+        },
+        {
+            "timestamp": 2.521,
+            "frame": 64,
+            "objects": []
+        },
+        {
+            "timestamp": 2.836,
+            "frame": 72,
+            "objects": []
+        },
+        {
+            "timestamp": 3.151,
+            "frame": 80,
+            "objects": []
+        },
+        {
+            "timestamp": 3.466,
+            "frame": 88,
+            "objects": []
+        },
+        {
+            "timestamp": 3.781,
+            "frame": 96,
+            "objects": []
+        },
+        {
+            "timestamp": 4.096,
+            "frame": 104,
+            "objects": []
+        },
+        {
+            "timestamp": 4.411,
+            "frame": 112,
+            "objects": []
+        },
+        {
+            "timestamp": 4.727,
+            "frame": 120,
+            "objects": []
+        }
+    ]
+}
