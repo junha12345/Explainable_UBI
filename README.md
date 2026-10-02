@@ -2,8 +2,9 @@
 
 블랙박스/자율주행 영상에서 객체를 추적하고, 위험 상황을 분류하며, 시각-언어 모델(VLM)을 이용해 전반적인 사고 맥락을 분석하여 최종적인 안전 운전 확률을 산출하는 통합 파이프라인입니다.
 
-## 시스템 아키텍처
-![Project Process](assets/process.png)
+## 시스템 프로세스 및 아키텍처
+![Project Process](assets/Process.png)
+
 ![Project Architecture](assets/architecture.png)
 
 본 프로젝트는 아래 3가지 모델 아키텍처가 결합되어 작동합니다.
